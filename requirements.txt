@@ -1,0 +1,12 @@
+Requirements:
+
+sklearn
+scipy
+numpy
+random
+collections
+shutil
+pês
+matplotlib
+keras
+tensorflow 2
